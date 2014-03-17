@@ -11,7 +11,6 @@ See this theme in action [here](http://darryl.revryl.com).
 
 ```
 git clone https://github.com/DarrylDias/Classic-White .themes/Classic-White
-
 rake install["Classic-White"]
 ```
 
