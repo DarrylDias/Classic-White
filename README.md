@@ -2,7 +2,7 @@ Classic-White
 =============
 
 
-This theme is build on Octopress 2.1
+This theme is built on Octopress 2.1.
 
 See this theme in action [here](http://darryl.revryl.com).
 
