@@ -4,7 +4,6 @@ Classic-White
 
 This theme is built on Octopress 2.1.
 
-See this theme in action [here](http://darryl.revryl.com).
 
 
 #### Features.
@@ -25,3 +24,5 @@ rake install["Classic-White"]
 ```
 
 If you find any bugs open an issue [here](https://github.com/DarrylDias/Classic-White/issues).
+
+Live demo comming soon...
