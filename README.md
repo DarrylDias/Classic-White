@@ -2,8 +2,7 @@ Classic-White
 =============
 
 
-This theme is built on Octopress 2.1.
-
+This theme is built for Octopress 2.1
 
 
 #### Features.
@@ -14,6 +13,7 @@ This theme is built on Octopress 2.1.
 
 * Supports Octopress 2.1.
 
+* Solarized Dark syntax highlighting
 
 
 #### Installing Classic-White theme.
