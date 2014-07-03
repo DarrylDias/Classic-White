@@ -18,9 +18,14 @@ This theme is built for Octopress 2.1
 
 #### Installing Classic-White theme.
 
-```
+``` bash
 git clone https://github.com/DarrylDias/Classic-White .themes/Classic-White
 rake install["Classic-White"]
+```
+If you are using ZSH.
+
+``` bash
+rake install \[Classic-White\]
 ```
 
 If you find any bugs open an issue [here](https://github.com/DarrylDias/Classic-White/issues).
